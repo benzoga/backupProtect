@@ -1,2 +1,2 @@
 # backupProtect
-backup yours files with a password and a md5 checksum
+Backup your files creating an archive with a password and a md5 checksum
